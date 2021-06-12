@@ -1,3 +1,5 @@
+maosduhasdoudahsous
+
 var merge = (arr1) => { 11111
     let length = arr1.length
     let cutPoint = Math.floor(length/2)
