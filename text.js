@@ -4,7 +4,7 @@ var merge = (arr1) => { 11111
 
     let rightArr = merge(arr1.splice(cutPoint, length))
     let leftArr = merge(arr1)
-
+    888
     if(arr1.length = 1){
         return arr1
     }
