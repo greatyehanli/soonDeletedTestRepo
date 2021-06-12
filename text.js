@@ -1,4 +1,4 @@
-var merge = (arr1) => {
+var merge = (arr1) => {asddasdadasadsasdadaadsadads
     let length = arr1.length
     let cutPoint = Math.floor(length/2)
 
@@ -23,7 +23,7 @@ var merge = (arr1) => {
         }
         i++
     }
-
+s
     let remainingArr = []
     if(rightArr.length === 0){
         remainingArr = leftArr
