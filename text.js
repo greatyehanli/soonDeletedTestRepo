@@ -1,4 +1,4 @@
-var merge = (arr1) => {
+var merge = (arr1) => { 11111
     let length = arr1.length
     let cutPoint = Math.floor(length/2)
 
@@ -8,7 +8,7 @@ var merge = (arr1) => {
     if(arr1.length = 1){
         return arr1
     }
-
+  
     let i = 0
     let temp = []
     while(rightArr > 0 && leftArr > 0){
